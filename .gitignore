@@ -1,1 +1,6 @@
 .texpadtmp/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
